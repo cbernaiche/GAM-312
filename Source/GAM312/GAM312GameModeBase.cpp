@@ -1,0 +1,9 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#include "GAM312GameModeBase.h"
+
+AGAM312GameModeBase::AGAM312GameModeBase()
+{
+
+}
+
